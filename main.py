@@ -179,7 +179,6 @@ def calc_irregularity(mask):
     return 0
    
     
-#sadas
 
 def calc_circularity(mask):
     """
