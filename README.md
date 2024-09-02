@@ -22,7 +22,7 @@ cd SignCellAndGetData
 pip install -r requirements.txt
 Ensure you have Python 3.6 or higher installed on your system.
 
-Usage
+# Usage
 To perform cell segmentation and analysis, run the main.py script with the following command:
 
 python main.py --image_folder "path_to_images" --output_path "path_to_output_segments" --output_merge "path_to_output_merge"
