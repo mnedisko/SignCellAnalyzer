@@ -50,20 +50,11 @@ Contributions are welcome! Please fork the repository, create a new branch for y
 
 ## Images
 
-Original Cytokeratin 18 (CK18) image
-
-![Original Cytokeratin 18 (CK18) image](images/example_original.jpg)
-
-Segmented Cytokeratin 18 (CK18) image
-
-![Segmented Cytokeratin 18 (CK18) image](images/example_segmentation.jpg)
-
-Merged Cytokeratin 18 (CK18) image
-
-![Merged Cytokeratin 18 (CK18) image](images/example_merged.jpg)
-
 <div style="display: flex; justify-content: space-between;">
-    <img src="images/example_merged.jpg" alt="Resim 1" width="200"/>
-    <img src="images/example_segmentation.jpg" alt="Resim 2" width="200"/>
-    <img src="images/example_original.jpg" alt="Resim 3" width="200"/>
+    Merged Cytokeratin 18 (CK18
+    <img src="images/example_merged.jpg" alt="Merged Cytokeratin 18 (CK18) image" width="200"/>
+    Segmented Cytokeratin 18 (CK18) image
+    <img src="images/example_segmentation.jpg" alt="Segmented Cytokeratin 18 (CK18) image" width="200"/>
+    Original Cytokeratin 18 (CK18) image
+    <img src="images/example_original.jpg" alt="Original Cytokeratin 18 (CK18) image" width="200"/>
 </div>
