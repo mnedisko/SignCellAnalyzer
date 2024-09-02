@@ -52,12 +52,15 @@ Contributions are welcome! Please fork the repository, create a new branch for y
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Example Images
+
+Original Cytokeratin 18 (CK18) image
+
 ![Original Cytokeratin 18 (CK18) image](images/example_original.jpg)
 
---
+Segmented Cytokeratin 18 (CK18) image
 
 ![Segmented Cytokeratin 18 (CK18) image](images/example_segmentation.jpg)
 
---
+Merged Cytokeratin 18 (CK18) image
 
 ![Merged Cytokeratin 18 (CK18) image](images/example_merged.jpg)
