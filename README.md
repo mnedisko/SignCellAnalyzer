@@ -50,19 +50,17 @@ Contributions are welcome! Please fork the repository, create a new branch for y
 
 ## Images
 
-
-<div style="display: flex; justify-content: space-between;">
-    <div style="text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <div>
         <p>Merged Cytokeratin 18 (CK18)</p>
         <img src="images/example_merged.jpg" alt="Merged Cytokeratin 18 (CK18) image" width="200"/>
     </div>
-    <div style="text-align: center;">
+    <div>
         <p>Segmented Cytokeratin 18 (CK18)</p>
         <img src="images/example_segmentation.jpg" alt="Segmented Cytokeratin 18 (CK18) image" width="200"/>
     </div>
-    <div style="text-align: center;">
+    <div>
         <p>Original Cytokeratin 18 (CK18)</p>
         <img src="images/example_original.jpg" alt="Original Cytokeratin 18 (CK18) image" width="200"/>
     </div>
 </div>
-
