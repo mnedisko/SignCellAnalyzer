@@ -10,7 +10,7 @@ SignCellAndGetData is a Python-based project that performs cell segmentation and
 - [Arguments](#arguments)
 - [Output](#output)
 - [Contributing](#contributing)
-- [License](#license)
+- [Example Images](#images)
 
 ## Installation
 
@@ -48,10 +48,7 @@ Excel File: An Excel file with cell properties like area, circularity, brightnes
 ## Contributing
 Contributions are welcome! Please fork the repository, create a new branch for your feature or bugfix, and submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Example Images
+## Images
 
 Original Cytokeratin 18 (CK18) image
 
