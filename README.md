@@ -51,10 +51,10 @@ Contributions are welcome! Please fork the repository, create a new branch for y
 ## Images
 
 <div style="display: flex; justify-content: space-between;">
-    Merged Cytokeratin 18 (CK18
+    Merged Cytokeratin 18 (CK18)
     <img src="images/example_merged.jpg" alt="Merged Cytokeratin 18 (CK18) image" width="200"/>
-    Segmented Cytokeratin 18 (CK18) image
+    Segmented Cytokeratin 18 (CK18)
     <img src="images/example_segmentation.jpg" alt="Segmented Cytokeratin 18 (CK18) image" width="200"/>
-    Original Cytokeratin 18 (CK18) image
+    Original Cytokeratin 18 (CK18)
     <img src="images/example_original.jpg" alt="Original Cytokeratin 18 (CK18) image" width="200"/>
 </div>
