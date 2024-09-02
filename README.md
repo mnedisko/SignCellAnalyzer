@@ -20,9 +20,10 @@ To run this project locally, you will need to clone the repository and install t
 git clone https://github.com/yourusername/SignCellAndGetData.git
 cd SignCellAndGetData
 pip install -r requirements.txt
+```
 Ensure you have Python 3.6 or higher installed on your system.
 
-# Usage
+## Usage
 To perform cell segmentation and analysis, run the main.py script with the following command:
 
 python main.py --image_folder "path_to_images" --output_path "path_to_output_segments" --output_merge "path_to_output_merge"
@@ -31,21 +32,21 @@ Example
 
 python main.py --image_folder "data/newdata/datas/purple_img" --output_path "data/newdata/datas/output_segments" --output_merge "data/newdata/datas/output_merge"
 
-Project Structure
+## Project Structure
 main.py: The main script to perform cell segmentation and analysis.
 requirements.txt: A list of dependencies required for the project.
-Arguments
+## Arguments
 --image_folder: The folder containing the input images. (default: data/newdata/datas/purple_img)
 --output_path: The folder to save the segmented images. (default: data/newdata/datas/output_segments)
 --output_merge: The folder to save the merged images. (default: data/newdata/datas/output_merge)
-Output
+## Output
 The output includes:
 
 Segmented Images: Saved in the specified output_path.
 Merged Images: Saved in the specified output_merge.
 Excel File: An Excel file with cell properties like area, circularity, brightness, and irregularity is saved in the output_path.
-Contributing
+## Contributing
 Contributions are welcome! Please fork the repository, create a new branch for your feature or bugfix, and submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
