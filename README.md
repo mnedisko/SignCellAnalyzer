@@ -17,7 +17,7 @@ SignCellAndGetData is a Python-based project that performs cell segmentation and
 To run this project locally, you will need to clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/SignCellAndGetData.git
+git clone https://github.com/mnedisko/SignCellAnalyzer
 cd SignCellAndGetData
 pip install -r requirements.txt
 ```
