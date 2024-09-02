@@ -61,3 +61,9 @@ Segmented Cytokeratin 18 (CK18) image
 Merged Cytokeratin 18 (CK18) image
 
 ![Merged Cytokeratin 18 (CK18) image](images/example_merged.jpg)
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="images/example_merged.jpg" alt="Resim 1" width="200"/>
+    <img src="images/example_segmentation.jpg" alt="Resim 2" width="200"/>
+    <img src="images/example_original.jpg" alt="Resim 3" width="200"/>
+</div>
